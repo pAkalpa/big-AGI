@@ -17,6 +17,8 @@ Or fork & run on Vercel
 
 ## 👉 [roadmap](https://github.com/users/enricoros/projects/4/views/2) 👉 [installation](docs/installation.md) 👉 [documentation](docs/README.md)
 
+> Note: bigger better features (incl. Beam-2) are being cooked outside of `main`.
+
 [//]: # (big-AGI is an open book; see the **[ready-to-ship and future ideas]&#40;https://github.com/users/enricoros/projects/4/views/2&#41;** in our open roadmap)
 
 <<<<<<< HEAD
@@ -45,6 +47,7 @@ Or fork & run on Vercel
 - Message **Starring ⭐**: star important messages within chats, to attach them later. [#476](https://github.com/enricoros/big-AGI/issues/476)
 - Enhanced the default Persona
 - Fixes to Gemini models and SVGs, improvements to UI and icons
+- 1.15.1: Support for Gemini Pro 1.5 and OpenAI Turbo models
 - Beast release, over 430 commits, 10,000+ lines changed: [release notes](https://github.com/enricoros/big-AGI/releases/tag/v1.15.0), and changes [v1.14.1...v1.15.0](https://github.com/enricoros/big-AGI/compare/v1.14.1...v1.15.0)
 
 ### What's New in 1.14.1 · March 7, 2024 · Modelmorphic
