@@ -50,7 +50,8 @@ Or fork & run on Vercel
 - 1.15.1: Support for Gemini Pro 1.5 and OpenAI Turbo models
 - Beast release, over 430 commits, 10,000+ lines changed: [release notes](https://github.com/enricoros/big-AGI/releases/tag/v1.15.0), and changes [v1.14.1...v1.15.0](https://github.com/enricoros/big-AGI/compare/v1.14.1...v1.15.0)
 
-### What's New in 1.14.1 · March 7, 2024 · Modelmorphic
+<details>
+<summary>What's New in 1.14.1 · March 7, 2024 · Modelmorphic</summary>
 
 - **Anthropic** [Claude-3](https://www.anthropic.com/news/claude-3-family) model family support. [#443](https://github.com/enricoros/big-AGI/issues/443)
 - New **[Perplexity](https://www.perplexity.ai/)** and **[Groq](https://groq.com/)** integration (thanks @Penagwin). [#407](https://github.com/enricoros/big-AGI/issues/407), [#427](https://github.com/enricoros/big-AGI/issues/427)
@@ -60,7 +61,10 @@ Or fork & run on Vercel
 - Enhanced UX with auto-sizing charts, refined search and folder functionalities, perfected scaling
 - And with more UI improvements, documentation, bug fixes (20 tickets), and developer enhancements
 
-### What's New in 1.13.0 · Feb 8, 2024 · Multi + Mind
+</details>
+
+<details>
+<summary>What's New in 1.13.0 · Feb 8, 2024 · Multi + Mind</summary>
 
 https://github.com/enricoros/big-AGI/assets/32999/01732528-730e-41dc-adc7-511385686b13
 
@@ -71,6 +75,8 @@ https://github.com/enricoros/big-AGI/assets/32999/01732528-730e-41dc-adc7-511385
 - Dev2 Persona Technology Preview
 - Better looking chats with improved spacing, fonts, and menus
 - More: new video player, [LM Studio tutorial](https://github.com/enricoros/big-AGI/blob/main/docs/config-local-lmstudio.md) (thanks @aj47), [MongoDB support](https://github.com/enricoros/big-AGI/blob/main/docs/deploy-database.md) (thanks @ranfysvalle02), and speedups
+
+</details>
 
 <details>
 <summary>What's New in 1.12.0 · Jan 26, 2024 · AGI Hotline</summary>
